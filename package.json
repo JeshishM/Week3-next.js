@@ -1,0 +1,24 @@
+{
+  "name": "CS5513-Week03-JeshishM",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^11.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeshishM/Week3-next.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeshishM/Week3-next.js/issues"
+  },
+  "homepage": "https://github.com/JeshishM/Week3-next.js#readme"
+}
